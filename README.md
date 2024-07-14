@@ -6,9 +6,8 @@
 - Styled with **Tailwind CSS** for modern and flexible design.
 
 ## Features
-- **User Authentication**: Secure login and registration system.
 - **Personalized Workouts**: Customizes routines based on user input and preferences.
-- **Workout Library**: Extensive database of exercises with descriptions and videos.
+- **Workout Library**: Extensive database of exercises with descriptions.
 - **Progress Tracking**: Allows users to log and track their workout progress over time.
 - **Responsive Design**: Optimized for all device sizes, providing a seamless experience on desktops, tablets, and mobile devices.
 
