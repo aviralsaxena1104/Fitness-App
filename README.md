@@ -1,6 +1,4 @@
-# The ultimate gym training app built with react and tailwind CSS
-
-# The Ultimate Gym Training App
+# The Ultimate Gym Training App built with React and Tailwind CSS
 
 ## Overview
 - The Ultimate Gym Training App is designed to personalize workout routines based on user preferences.
