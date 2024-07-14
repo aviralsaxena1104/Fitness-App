@@ -1,15 +1,18 @@
 # The ultimate gym training app built with react and tailwind CSS
 
-#Overview
-The Ultimate Gym Training App is designed to personalize workout routines based on user preferences.
-Built using React for a dynamic and responsive user interface.
-Styled with Tailwind CSS for modern and flexible design.
+# The Ultimate Gym Training App
 
-#Features
-Personalized Workouts: Customizes routines based on user input and preferences.
-Workout Library: Extensive database of exercises with descriptions .
-Progress Tracking: Allows users to log and track their workout progress over time.
-Responsive Design: Optimized for all device sizes, providing a seamless experience on desktops, tablets, and mobile devices.
+## Overview
+- The Ultimate Gym Training App is designed to personalize workout routines based on user preferences.
+- Built using **React** for a dynamic and responsive user interface.
+- Styled with **Tailwind CSS** for modern and flexible design.
+
+## Features
+- **User Authentication**: Secure login and registration system.
+- **Personalized Workouts**: Customizes routines based on user input and preferences.
+- **Workout Library**: Extensive database of exercises with descriptions and videos.
+- **Progress Tracking**: Allows users to log and track their workout progress over time.
+- **Responsive Design**: Optimized for all device sizes, providing a seamless experience on desktops, tablets, and mobile devices.
 
 ![image](https://github.com/user-attachments/assets/e44d3c07-c36f-46b6-954d-4c38bb528a1b)
 ![image](https://github.com/user-attachments/assets/dc80f7d2-06f4-455f-89b7-2d7697e0b319)
